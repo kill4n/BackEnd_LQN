@@ -8,6 +8,8 @@ Datos de inicio de sesion para cuenta de admin
 - Usuario: root
 - Contraseña: toor
 
+Los datos para probar el ejercicio se encuentran en **starWarsApp/fixtures/data.json**
+
 ### Modelo de la base de datos
 Clase para almacenar los personajes
 ```
